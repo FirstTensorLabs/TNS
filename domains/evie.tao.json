@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "evie.tao",
+    "domain_name": "evie",
+    "created_at": "2026-02-19 14:47:09",
+    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "evie.tao",
+    "event_type": "buy_domain",
+    "price": 0.5,
+    "tx_hash": "0x865c40222c03641e8b243569795b94fbaa78f7891fa96ccd705c2caa72ea2542",
+    "previous_cid": null,
+    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
+    "order_id": "c0145619-107b-41d7-a979-c90ff982c10c",
+    "event_date": "2026-02-19 14:47:09",
+    "ipfs_cid": "QmQgQxygFdcJwqa1M1VrCToZCyHyDKn5xFG2AK3wEdTEPC"
+  }
+}
