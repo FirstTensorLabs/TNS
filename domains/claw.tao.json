@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "claw.tao",
+    "domain_name": "claw",
+    "created_at": "2026-02-19 15:03:27",
+    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.5,
+    "cost_in_tao": 0.5
+  },
+  "latest_event": {
+    "domain": "claw.tao",
+    "event_type": "buy_domain",
+    "price": 0.5,
+    "tx_hash": "0xade662584d786cf055c588455f073160fe62800b08809efef12196fd21010b90",
+    "previous_cid": null,
+    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
+    "order_id": "82d85d19-227c-4ba3-92a1-d35f22678361",
+    "event_date": "2026-02-19 15:03:27",
+    "ipfs_cid": "QmWYwyhd17HMJJXRtZNEkv4xW5WrQqq9juoWhjCSELAXVF"
+  }
+}
