@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "bitstarter.tao",
+    "domain_name": "bitstarter",
+    "created_at": "2026-02-21 02:15:27",
+    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "bitstarter.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0xce378dc262f1b50ddf997f9d2c3ca6cc282c268bf591c3196f713753468ec739",
+    "previous_cid": null,
+    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
+    "order_id": "b91d4c62-2fab-482e-bcbb-0d768e8c8fe0",
+    "event_date": "2026-02-21 02:15:27",
+    "ipfs_cid": "QmdeHAV2BFZ6HdrXa7Tq4AVCDpQVkumwgY9a5j7aoNRBRd"
+  }
+}
