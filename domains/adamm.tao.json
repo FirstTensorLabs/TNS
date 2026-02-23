@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "adamm.tao",
     "domain_name": "adamm",
+    "expire_date": "2025-06-30 05:34:20",
     "created_at": "2025-06-30 05:34:20",
     "wallet_address": "5CaeSJEp8Dt8XzX9EWkvmwtWxFLL9qACYWw1Lrg1tfg98Psw",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "adamm.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xb8300b48e6fe634fae94699930bf368abbc9fd71044989aec954b73432d380d5",
-    "previous_cid": null,
-    "wallet_address": "5CaeSJEp8Dt8XzX9EWkvmwtWxFLL9qACYWw1Lrg1tfg98Psw",
-    "order_id": "6fa4569a-e1e3-440d-b6b2-8bd142401c0b",
     "event_date": "2025-06-30 05:34:20",
-    "ipfs_cid": "QmXnaNa8yRLxvoEcTKLxBy7Nj2UgyWmYEuXMuRpEGiHxUC"
+    "tx_hash": "0xb8300b48e6fe634fae94699930bf368abbc9fd71044989aec954b73432d380d5",
+    "cid": "QmXnaNa8yRLxvoEcTKLxBy7Nj2UgyWmYEuXMuRpEGiHxUC"
   }
 }
