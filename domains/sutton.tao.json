@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "sutton.tao",
     "domain_name": "sutton",
+    "expire_date": "2025-05-23 15:46:06",
     "created_at": "2025-05-23 15:46:06",
     "wallet_address": "5Frz3qyvxtJorerDjsVNTprnZ9wsvxkZcijJ49zpu9qtLyKs",
     "discount": true,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "sutton.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x1848e9baec5ef61fbc2061b2a5305dd13d703091b852954f0f7ad543195be49d",
-    "previous_cid": null,
-    "wallet_address": "5Frz3qyvxtJorerDjsVNTprnZ9wsvxkZcijJ49zpu9qtLyKs",
-    "order_id": "99460764-bece-4c6a-bbe4-c74e1027b752",
     "event_date": "2025-05-23 15:46:06",
-    "ipfs_cid": "QmQUquvea8hRFRi7xPe8EtjbcV8cPHTKNfSabNWf1fxbyD"
+    "tx_hash": "0x1848e9baec5ef61fbc2061b2a5305dd13d703091b852954f0f7ad543195be49d",
+    "cid": "QmQUquvea8hRFRi7xPe8EtjbcV8cPHTKNfSabNWf1fxbyD"
   }
 }
