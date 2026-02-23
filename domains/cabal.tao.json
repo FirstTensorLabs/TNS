@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "cabal.tao",
     "domain_name": "cabal",
+    "expire_date": "2026-02-21 13:01:48",
     "created_at": "2026-02-21 13:01:48",
     "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "cabal.tao",
     "event_type": "buy_domain",
-    "tx_hash": "0xbc51ceb4285ebf31b37aa89e585785f2704eda1463bb2bd177fa494cb9913a90",
-    "previous_cid": null,
-    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
-    "order_id": "244de449-7192-46bd-887d-9a8081d01fbf",
     "event_date": "2026-02-21 13:01:48",
-    "expire_date": "2027-02-21 13:01:48",
-    "ipfs_cid": "QmaVujeeHqFbSppKTKUF95bG1AfvS1k2srvkcM4hGAn5ds"
+    "tx_hash": "0xbc51ceb4285ebf31b37aa89e585785f2704eda1463bb2bd177fa494cb9913a90",
+    "cid": "QmaVujeeHqFbSppKTKUF95bG1AfvS1k2srvkcM4hGAn5ds"
   }
 }
