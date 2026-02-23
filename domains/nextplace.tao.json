@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "nextplace.tao",
     "domain_name": "nextplace",
+    "expire_date": "2025-06-04 02:46:44",
     "created_at": "2025-06-04 02:46:44",
     "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "nextplace.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xd20555b242d26ca555d81f8dd75ec78ad90a85ed2daa0329663c3d3387c75fff",
-    "previous_cid": null,
-    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
-    "order_id": "facc9ef5-f343-4a83-a035-104abc012946",
     "event_date": "2025-06-04 02:46:44",
-    "ipfs_cid": "QmWHvYVg9853aG6jC3vjXQad8Bb9uKWRK8aYvEKhU9UPYA"
+    "tx_hash": "0xd20555b242d26ca555d81f8dd75ec78ad90a85ed2daa0329663c3d3387c75fff",
+    "cid": "QmWHvYVg9853aG6jC3vjXQad8Bb9uKWRK8aYvEKhU9UPYA"
   }
 }
