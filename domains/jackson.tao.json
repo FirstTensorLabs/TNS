@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "jackson.tao",
     "domain_name": "jackson",
+    "expire_date": "2026-02-19 14:45:37",
     "created_at": "2026-02-19 14:45:37",
     "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "jackson.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x3ae13cf0b8219f383c0e078a513e8560667e7d81e8922d6d816792b8d318d0bd",
-    "previous_cid": null,
-    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
-    "order_id": "48e62b0e-fa11-4f06-be0e-9514f1c5479c",
     "event_date": "2026-02-19 14:45:37",
-    "ipfs_cid": "QmTeWbpL5y3RBLg21DE5TzU5ePkniziKQUQccP1LL7vjpW"
+    "tx_hash": "0x3ae13cf0b8219f383c0e078a513e8560667e7d81e8922d6d816792b8d318d0bd",
+    "cid": "QmTeWbpL5y3RBLg21DE5TzU5ePkniziKQUQccP1LL7vjpW"
   }
 }
