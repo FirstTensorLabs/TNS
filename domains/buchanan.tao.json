@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "buchanan.tao",
     "domain_name": "buchanan",
+    "expire_date": "2026-02-19 14:44:23",
     "created_at": "2026-02-19 14:44:23",
     "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "buchanan.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x3ceb751868f6312719583087497730f75163a44cc2be573cb29e57cc91621b86",
-    "previous_cid": null,
-    "wallet_address": "5FU6mVZTs4w4Whtq6RhKTkG795siYfhznrcjDnvKZT4TMxjo",
-    "order_id": "a8234004-1fa1-44fd-8f00-dac72048a76b",
     "event_date": "2026-02-19 14:44:23",
-    "ipfs_cid": "Qmd3vz8cW8zuJYDV52TvYoHeZEe7ur6iqyEKPparUoryMV"
+    "tx_hash": "0x3ceb751868f6312719583087497730f75163a44cc2be573cb29e57cc91621b86",
+    "cid": "Qmd3vz8cW8zuJYDV52TvYoHeZEe7ur6iqyEKPparUoryMV"
   }
 }
