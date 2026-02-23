@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "carinsurance.tao",
     "domain_name": "carinsurance",
+    "expire_date": "2025-07-20 22:03:56",
     "created_at": "2025-07-20 22:03:56",
     "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "carinsurance.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xc0a723657c6fd956332eb22a3a433798c7a6ccb88109c70b9f374ced110715be",
-    "previous_cid": null,
-    "wallet_address": "5FexFXAv2MKtxmgz4Yhkqev41FvfFGJA2hNmdnCkVZ9g9HFB",
-    "order_id": "c5d1d3a5-b8fa-4935-9ce1-d8f5defe4f75",
     "event_date": "2025-07-20 22:03:56",
-    "ipfs_cid": "QmZCBiD1nM15y6jA7rC4vSuGr7URTEyzYcnuLDsTVRmum9"
+    "tx_hash": "0xc0a723657c6fd956332eb22a3a433798c7a6ccb88109c70b9f374ced110715be",
+    "cid": "QmZCBiD1nM15y6jA7rC4vSuGr7URTEyzYcnuLDsTVRmum9"
   }
 }
