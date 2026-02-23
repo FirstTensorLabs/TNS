@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "ridges.tao",
     "domain_name": "ridges",
+    "expire_date": "2025-06-04 01:44:09",
     "created_at": "2025-06-04 01:44:09",
     "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "ridges.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x08ae82749dcdcbf996ed357f99ffa53846427b821a1792474ef85b4aff92ecd8",
-    "previous_cid": null,
-    "wallet_address": "5DRjVNjwim9iLPDxZ6xVv6VFUkMXvnToh3WygQEnswrYm7c8",
-    "order_id": "85845ef0-c4ee-48d7-83e9-e5c477004e86",
     "event_date": "2025-06-04 01:44:09",
-    "ipfs_cid": "QmfQxGv174yJu2KQVtkN5uv7DLKwmVx5HwbLJRsP1hFLtz"
+    "tx_hash": "0x08ae82749dcdcbf996ed357f99ffa53846427b821a1792474ef85b4aff92ecd8",
+    "cid": "QmfQxGv174yJu2KQVtkN5uv7DLKwmVx5HwbLJRsP1hFLtz"
   }
 }
