@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "bets.tao",
     "domain_name": "bets",
+    "expire_date": "2025-07-22 13:20:41",
     "created_at": "2025-07-22 13:20:41",
     "wallet_address": "5Co4fEsFmY2U2b4u65FYdBmuRFvJGaZcWcfA8PGgqPGjYMzo",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "bets.tao",
     "event_type": "buy_domain",
-    "price": 0.5,
-    "tx_hash": "0x0e7f725eb48c7f2ba777eeb934acbb77a71a2371507d6410d96063afbbb6dd0d",
-    "previous_cid": null,
-    "wallet_address": "5Co4fEsFmY2U2b4u65FYdBmuRFvJGaZcWcfA8PGgqPGjYMzo",
-    "order_id": "6c02073d-2743-43fe-8012-69c97606bab4",
     "event_date": "2025-07-22 13:20:41",
-    "ipfs_cid": "QmarR58nBrS8gE4amzVpmM4jxWQiitNS4GTFGtLWKKRFLY"
+    "tx_hash": "0x0e7f725eb48c7f2ba777eeb934acbb77a71a2371507d6410d96063afbbb6dd0d",
+    "cid": "QmarR58nBrS8gE4amzVpmM4jxWQiitNS4GTFGtLWKKRFLY"
   }
 }
