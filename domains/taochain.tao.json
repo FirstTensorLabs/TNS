@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "taochain.tao",
     "domain_name": "taochain",
+    "expire_date": "2025-07-21 18:39:44",
     "created_at": "2025-07-21 18:39:44",
     "wallet_address": "5Ea2pz7eqoxsW85xGNV6KFioKs6KUXkBaQQvp7R7V1DTC5fw",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "taochain.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xc2871e07bd72ceba0a44d0e721adc4711ad28562a628658585eff6e092f34d68",
-    "previous_cid": null,
-    "wallet_address": "5Ea2pz7eqoxsW85xGNV6KFioKs6KUXkBaQQvp7R7V1DTC5fw",
-    "order_id": "30b9afef-d9f2-4df0-b8d3-b256942cf7df",
     "event_date": "2025-07-21 18:39:44",
-    "ipfs_cid": "QmQbzExuWyVhFrQ4HgPFhC1QKWU9CN93FhZHgyn2aBhzYS"
+    "tx_hash": "0xc2871e07bd72ceba0a44d0e721adc4711ad28562a628658585eff6e092f34d68",
+    "cid": "QmQbzExuWyVhFrQ4HgPFhC1QKWU9CN93FhZHgyn2aBhzYS"
   }
 }
