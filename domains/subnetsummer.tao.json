@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "subnetsummer.tao",
     "domain_name": "subnetsummer",
+    "expire_date": "2025-06-01 07:41:09",
     "created_at": "2025-06-01 07:41:09",
     "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "subnetsummer.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x1c876cd2e4026dcca80923ea3806778705d153233f38d737f8434bc047041e2d",
-    "previous_cid": null,
-    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
-    "order_id": "d2f16d30-0f72-4ba3-ac65-fb3b5b2f1038",
     "event_date": "2025-06-01 07:41:09",
-    "ipfs_cid": "QmUsvLjg9PLt5ur4RiEhRp2hxNim33Gg8HskFU8yNNib4E"
+    "tx_hash": "0x1c876cd2e4026dcca80923ea3806778705d153233f38d737f8434bc047041e2d",
+    "cid": "QmUsvLjg9PLt5ur4RiEhRp2hxNim33Gg8HskFU8yNNib4E"
   }
 }
