@@ -12,12 +12,9 @@
   },
   "latest_event": {
     "domain": "tnstest2.tao",
-    "event_type": "transfer_domain",
-    "wallet_address": "5GxQNskxQTU263arMnW62WzgQqtgYz2xSondDNKu1AmvroLu",
-    "previous_cid": "QmPUe2RwFsmVUFDiFjXSFr4AHmP21cxD6wxq1P7Yiqibx5",
-    "order_id": "5b458c32-8d6e-4d8c-b105-0fcaf0affca3",
-    "event_date": "2025-05-16T13:43:54.988Z",
-    "previous_wallet_address": "5CGVo5btyfhYSucSsNVH5TuYuzDPwR9nZZSF1jGnegyXf7zL",
-    "ipfs_cid": "QmRdjPoQs9eBFSvGGKWgm285zai7pNSqwyC2sKqDEube9n"
+    "event_type": "buy_domain",
+    "event_date": "2025-05-16 12:34:46",
+    "tx_hash": "0xf19ffafdf0903cda51ad0b9e0e7c2b8e65902f2cf39b53674a5dc7a88416f9da",
+    "cid": "Qmeo6GXs7hMZB5rKUk22AoMzRrd2PM2Tt8DDCRCTXgEkSb"
   }
 }
