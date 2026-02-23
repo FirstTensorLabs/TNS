@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "easyape.tao",
     "domain_name": "easyape",
+    "expire_date": "2026-02-21 01:55:21",
     "created_at": "2026-02-21 01:55:21",
     "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "easyape.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xa37b9d69bcca5a29da6e559e19637501f14529fc8101440c889e92f07609629e",
-    "previous_cid": null,
-    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
-    "order_id": "6fb58782-c59f-49e1-81f7-380f39571230",
     "event_date": "2026-02-21 01:55:21",
-    "ipfs_cid": "QmWGbwb27BRUfJcSLHMdsmGUee7rpvXyvSepZaom3t14mp"
+    "tx_hash": "0xa37b9d69bcca5a29da6e559e19637501f14529fc8101440c889e92f07609629e",
+    "cid": "QmWGbwb27BRUfJcSLHMdsmGUee7rpvXyvSepZaom3t14mp"
   }
 }
