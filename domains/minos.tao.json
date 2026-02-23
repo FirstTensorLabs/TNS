@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "minos.tao",
     "domain_name": "minos",
+    "expire_date": "2026-02-23 18:15:33",
     "created_at": "2026-02-23 18:15:33",
     "wallet_address": "5EF5ht4KF6rxniCbdF6gP9EJU1iGaZhtFdJmwJ8k7mSAaeAR",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "minos.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0xf2b91e913160e7da4e5ae99bbd950451c5c97db75b90278cf76518199f1cc164",
-    "previous_cid": null,
-    "wallet_address": "5EF5ht4KF6rxniCbdF6gP9EJU1iGaZhtFdJmwJ8k7mSAaeAR",
-    "order_id": "50cfd7cc-10b3-4a23-a655-fea53c4a9409",
     "event_date": "2026-02-23 18:15:33",
-    "ipfs_cid": "Qmd2HpbQaBPL2fufBWjhRejfRenSNQwNAHAvxe3iWY6iKs"
+    "tx_hash": "0xf2b91e913160e7da4e5ae99bbd950451c5c97db75b90278cf76518199f1cc164",
+    "cid": "Qmd2HpbQaBPL2fufBWjhRejfRenSNQwNAHAvxe3iWY6iKs"
   }
 }
