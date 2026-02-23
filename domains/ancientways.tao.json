@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "ancientways.tao",
     "domain_name": "ancientways",
+    "expire_date": "2025-06-01 07:28:05",
     "created_at": "2025-06-01 07:28:05",
     "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
     "discount": true,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "ancientways.tao",
     "event_type": "buy_domain",
-    "price": 0.04,
-    "tx_hash": "0x0974d7a634aecd59710832a7189a63a2271987ae790ffa233edac4e3632fd070",
-    "previous_cid": null,
-    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
-    "order_id": "b46f1536-9cc8-49cf-9e5d-dbfe29d8070a",
     "event_date": "2025-06-01 07:28:05",
-    "ipfs_cid": "QmXT37Xno1mXdErZzQCH4gNriX9JKqCBgMhxy92Jct6nMZ"
+    "tx_hash": "0x0974d7a634aecd59710832a7189a63a2271987ae790ffa233edac4e3632fd070",
+    "cid": "QmXT37Xno1mXdErZzQCH4gNriX9JKqCBgMhxy92Jct6nMZ"
   }
 }
