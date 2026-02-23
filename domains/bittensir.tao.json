@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "bittensir.tao",
     "domain_name": "bittensir",
+    "expire_date": "2025-05-23 15:39:16",
     "created_at": "2025-05-23 15:39:16",
     "wallet_address": "5Frz3qyvxtJorerDjsVNTprnZ9wsvxkZcijJ49zpu9qtLyKs",
     "discount": true,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "bittensir.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x4df8bc04b2bf4faae40f1b49e1ef4a0e0cda75e01ffc3ce28263f27df93a0cd4",
-    "previous_cid": null,
-    "wallet_address": "5Frz3qyvxtJorerDjsVNTprnZ9wsvxkZcijJ49zpu9qtLyKs",
-    "order_id": "dd345175-9cde-4473-ad07-60da73db7ce6",
     "event_date": "2025-05-23 15:39:16",
-    "ipfs_cid": "Qmd4ASVYUhBu2xMa4hd5FX7dt4nXPgFu57vg8YdkczSwn7"
+    "tx_hash": "0x4df8bc04b2bf4faae40f1b49e1ef4a0e0cda75e01ffc3ce28263f27df93a0cd4",
+    "cid": "Qmd4ASVYUhBu2xMa4hd5FX7dt4nXPgFu57vg8YdkczSwn7"
   }
 }
