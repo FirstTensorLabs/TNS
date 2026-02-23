@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "5gurl.tao",
     "domain_name": "5gurl",
+    "expire_date": "2026-02-21 01:59:40",
     "created_at": "2026-02-21 01:59:40",
     "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "5gurl.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x39cfc1ec70f193d931ee605851859dbb9d388ddac4a623bd745d005c0ce745bb",
-    "previous_cid": null,
-    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
-    "order_id": "479415b1-abfd-47f0-b864-61c241c907ae",
     "event_date": "2026-02-21 01:59:40",
-    "ipfs_cid": "QmTbJ2P3pWZ3ofMMbjr3d4Ym2HQErKg7R5XAi8L3SziQLj"
+    "tx_hash": "0x39cfc1ec70f193d931ee605851859dbb9d388ddac4a623bd745d005c0ce745bb",
+    "cid": "QmTbJ2P3pWZ3ofMMbjr3d4Ym2HQErKg7R5XAi8L3SziQLj"
   }
 }
