@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "buddhism.tao",
     "domain_name": "buddhism",
+    "expire_date": "2025-06-01 07:13:37",
     "created_at": "2025-06-01 07:13:37",
     "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
     "discount": true,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "buddhism.tao",
     "event_type": "buy_domain",
-    "price": 0.04,
-    "tx_hash": "0x34cbe5725e68fb7b23f9f79509b9b651519d140359f96a862c8afef2267831f6",
-    "previous_cid": null,
-    "wallet_address": "5FCW7Z5YocbZQysqzry45cDVD4u1FaYeaw2qq2YL4Y9X4mn5",
-    "order_id": "08681ebf-2b1b-494e-aeed-b7d0f9bfea82",
     "event_date": "2025-06-01 07:13:37",
-    "ipfs_cid": "QmVTyKdzM3hEnQdG9YQ5yCnvTxnRw4Q9GwWLAbJbcmENdw"
+    "tx_hash": "0x34cbe5725e68fb7b23f9f79509b9b651519d140359f96a862c8afef2267831f6",
+    "cid": "QmVTyKdzM3hEnQdG9YQ5yCnvTxnRw4Q9GwWLAbJbcmENdw"
   }
 }
