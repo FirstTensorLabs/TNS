@@ -2,6 +2,7 @@
   "domain_info": {
     "domain": "epoch.tao",
     "domain_name": "epoch",
+    "expire_date": "2026-02-19 14:55:24",
     "created_at": "2026-02-19 14:55:24",
     "wallet_address": "5FJ7qN6B4ommcwimWAWZqBgzxVBQ3Fqz8EHYZ3H7639mHsU4",
     "discount": false,
@@ -12,12 +13,8 @@
   "latest_event": {
     "domain": "epoch.tao",
     "event_type": "buy_domain",
-    "price": 0.1,
-    "tx_hash": "0x7cafeb7f82b272bdbdd254ff663dad6369f1882da99872d89ce4028c4cc830aa",
-    "previous_cid": null,
-    "wallet_address": "5FJ7qN6B4ommcwimWAWZqBgzxVBQ3Fqz8EHYZ3H7639mHsU4",
-    "order_id": "21f4a82c-39c9-46ad-ace6-a5b266eba509",
     "event_date": "2026-02-19 14:55:24",
-    "ipfs_cid": "QmaiFBZgPFDdmQHsTThCcyyYRUUMdrJCsKf3BWSt4NYxUm"
+    "tx_hash": "0x7cafeb7f82b272bdbdd254ff663dad6369f1882da99872d89ce4028c4cc830aa",
+    "cid": "QmaiFBZgPFDdmQHsTThCcyyYRUUMdrJCsKf3BWSt4NYxUm"
   }
 }
