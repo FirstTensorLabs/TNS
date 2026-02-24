@@ -1,0 +1,23 @@
+{
+  "domain_info": {
+    "domain": "thetaofather.tao",
+    "domain_name": "thetaofather",
+    "created_at": "2026-02-24 21:55:48",
+    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
+    "discount": false,
+    "discount_in_tao": 0,
+    "price_estimated_in_tao": 0.1,
+    "cost_in_tao": 0.1
+  },
+  "latest_event": {
+    "domain": "thetaofather.tao",
+    "event_type": "buy_domain",
+    "price": 0.1,
+    "tx_hash": "0x62b9156c7cee9ad461bfebb88fe7dc3579aaee2ee33a186e68893640120ac2c4",
+    "previous_cid": null,
+    "wallet_address": "5EjpWgsgoeYF3YHa1NnBxNhTBpPNyJqkKQ5Phtz2WMm4T9zj",
+    "order_id": "40e5c9a6-7f75-4b0c-aba1-88aba6bfe5db",
+    "event_date": "2026-02-24 21:55:48",
+    "ipfs_cid": "QmPbYm9VSJQbAkFwcF6e2m72U1dqMryMYspPRqPueD44yt"
+  }
+}
